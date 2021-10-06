@@ -1,7 +1,6 @@
 {
-  "private": true,
   "name":"inte-super-methods",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     
     "start": "umi dev",
