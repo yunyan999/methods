@@ -1,6 +1,22 @@
 {
   "name":"inte-super-methods",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "description": "inte methods",
+  "main": "./src/pages/index.tsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunyan999/methods.git"
+  },
+  "keywords": [
+    "common",
+    "method"
+  ],
+  "author": "maoyungui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yunyan999/methods/issues"
+  },
+  "homepage": "https://github.com/yunyan999/methods#readme",
   "scripts": {
     
     "start": "umi dev",
