@@ -1,8 +1,9 @@
 {
   "private": true,
+  "name":"inte-super-methods",
+  "version": "1.0.0",
   "scripts": {
-    "name":"inte-super-methods",
-    "version": "1.0.0",
+    
     "start": "umi dev",
     "build": "umi build",
     "postinstall": "umi generate tmp",
